@@ -108,14 +108,6 @@ body::before{
     transform: translate(-50%, 50%);
     text-shadow: 1px 1px 5px #dc2e2e;
 }
-.banner .content img{
-    position: absolute;
-    height: 100px;
-    height: 100px;
-    bottom: -15%;
-    transform: translate(-50%, 50%);
-    left: 50%;
-}
 .banner .content .author{
     top: 50%;
     left: 50%;
