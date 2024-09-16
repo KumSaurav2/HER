@@ -112,7 +112,7 @@ body::before{
     position: absolute;
     height: 100px;
     height: 100px;
-    bottom: -40%;
+    bottom: -15%;
     transform: translate(-50%, 50%);
     left: 50%;
 }
