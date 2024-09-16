@@ -53,8 +53,8 @@ body::before{
 }
 .banner .slider{
     position: absolute;
-    width: 200px;
-    height: 250px;
+    width: 150px;
+    height: 200px;
     top: 10%;
     left: calc(50% - 100px);
     transform-style: preserve-3d;
@@ -127,8 +127,8 @@ body::before{
 }
 @media screen and (max-width: 1023px) {
     .banner .slider{
-        width: 180px;
-        height: 230px;
+        width: 160px;
+        height: 180px;
         left: calc(50% - 80px);
     }
     .banner .slider .item{
@@ -139,8 +139,8 @@ body::before{
 }
 @media screen and (max-width: 763px) {
     .banner .slider{
-        width: 100px;
-        height: 200px;
+        width: 120px;
+        height: 150px;
         left: calc(50% - 50px);
     }
     .banner .slider .item{
